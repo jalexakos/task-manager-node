@@ -8,4 +8,4 @@ From "The Complete Node.js Developer Course" by Andrew Mead on Udemy ([found her
 
 Upon forking, run `npm install` to install the requisite dependencies.
 
-To start a development server using Nodemon, run `npm run dev`. This allows for live updating and developing on `http://localhost:3000/`.
+To start a development server using Nodemon, create a `dev.env` file with `PORT=3000`, and run `npm run dev`. This allows for live updating and developing on `http://localhost:3000/`.
